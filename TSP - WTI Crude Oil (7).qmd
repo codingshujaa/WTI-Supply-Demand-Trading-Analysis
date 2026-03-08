@@ -17,8 +17,8 @@ library(forecast)
 library(purrr)
 library(zoo)
 
-iuser <- "adsf@ualberta.ca"
-ipassword <- "*wPi2cDSa2"
+iuser <- "contact"
+ipassword <- "*contact"
 
 API_Key <- "BSKQINiCycs9tlwX2sjFtqybJBclAhtnugczW77W"
 series_ID <- "PET.CRPDUS.M"
@@ -1401,3 +1401,4 @@ Condensed %>%
     )
   )
 ```
+
